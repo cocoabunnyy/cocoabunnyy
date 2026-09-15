@@ -1,5 +1,5 @@
-<img align="left" src="https://files.catbox.moe/3ad407.png" width="40%" >
-<img align="right" src="https://files.catbox.moe/m2ljcf.png" width="40%" >
+<img align="left" src="https://files.catbox.moe/3ad407.png" width="35%" >
+<img align="right" src="https://files.catbox.moe/m2ljcf.png" width="35%" >
 
 <img align="right" src="(https://files.catbox.moe/m2ljcf.png)" width="40%" >
 
