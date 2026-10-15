@@ -11,4 +11,4 @@
 <p align="center">
 <a href="https://niktopilled.atabook.org/">atabook</a>
 ✦
-<a href="https://rentry.co/lovetitle">rentry</a>
+<a href="https://rentry.co/pawfettie">rentry</a>
